@@ -1,1 +1,1 @@
-# modulateinventariomicrosreleases
+# modulateinventariomicros-releases
